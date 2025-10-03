@@ -2,3 +2,4 @@ streamlit
 pdfplumber
 pandas
 plotly
+openai>=1.0.0
